@@ -12,42 +12,42 @@
   "AcceptBirthdayGift_Negative": "Hey, you remembered my birthday... Thanks, @!$h#$b#Oh, it's, uh... *sniff*... what is it?$s",
   "AcceptGift_(O)StardropTea": "Wow... the color is so beautiful, like an amethyst. Thanks!",
   "AcceptGift_(TR)BasiliskPaw": "Disgusting... I love it!$h",
-  "AcceptGift_(O)SkillBook_4": "Hey, this is my favorite series! My Father won't let me order the newest entries, so I have to get them second hand like this...$h", // edited
+  "AcceptGift_(O)SkillBook_4": "Hey, this is my favorite series! My Father won't let me order the newest entries, so I have to get them second hand like this...$h", //edited
   "AcceptGift_(O)Book_Void": "Whoa, that's a creepy looking book... I love it!#$b#*Flip* *flip* *flip*... Ooh... It's full of monsters...$h#$b#I'll have to study this before going into the caves... Thanks!",
   "AcceptGift_(O)109": "Whoa... Where'd you find this? The workmanship is fascinating...#$b#It's a little too rusty to use, but I'll add it to my collection.",
-  "AcceptGift_(O)119": "This makes you wonder... Thousands of years ago, there was probably a little purple-haired cavewoman who played this flute, just like me.#$b#...I'll have to wash it before pressing it to my lips, though.$h",
+  "AcceptGift_(O)119": "This makes you wonder... Thousands of years ago, there was probably some purple-haired ancestor who played this flute, just like me.#$b#...I'll have to wash it before pressing it to my lips, though.$h", //edited
   "AcceptGift_(O)66": "$c 0.5#Wow... it's just my color! Thanks, @!$h#Thank you! This is my favorite stone. It's so pretty.",
-  "GreenRain": "I want to go exploring, but I can tell my Mother is kind of worried. I don't want to add to her stress.", // edited
+  "GreenRain": "I want to go exploring, but I can tell my Mother is kind of worried. I don't want to add to her stress.", //edited
   "GreenRainFinished": "And just like that, everything's back to normal. It's like magic!$h",
   "GreenRain_2": "Have you seen all the crazy trees around town? Everything looks so different... I feel like we're in a fairy world.",
   "cc_Begin": "Don't tell anyone, but I snuck into the old community center last night... I think it's haunted!",
   "AcceptGift_(O)279": "Oh, wow... @! Are you sure you want to give this to me? It's so rare!#$b#I'll admit, my mouth is watering already...$h",
   "mineArea_10_oneday": "I heard you've been exploring the old mines. That sounds like fun!$h#$e#...I'm working up the courage to go there myself...$s",
-  "eventSeen_733330_memory_oneday": "Sam and Sebastian asked me to play drums in their band... I've never played drums before, but it's actually pretty fun.#$e#You have to learn how to move your limbs to different rhythms, at the same exact time. I feel like my brain is growing.$h",
-  "eventSeen_1_memory_oneweek": "Hey, I finally beat the first level of Journey Of The Prairie King! Watching you play helped a lot.",
+  "eventSeen_733330_memory_oneday": "Sam and Sebastian asked me to play drums for their music... I've never played them before, but it's actually pretty fun.#$e#You have to learn how to move your limbs to different rhythms, at the same exact time. I feel like my brain is growing.$h", //edited
+  "eventSeen_1_memory_oneweek": "Hey, I finally made progress in Journey Of The Prairie King! Watching you helped a lot.", //edited
   "eventSeen_2_memory_oneday": "Sebastian mentioned that he heard strange music while having dinner the other night...#$e#I didn't tell him it was us! It seemed better to keep it a mystery.$h",
   "eventSeen_3": "The spirits have a mind of their own...$l",
   "wonEggHunt": "Feeling pretty good about the egg hunt, huh? Well, next year you won't be so lucky...$u",
   "wonEggHunt_memory_oneyear": "I'm still mad that you beat me at the egg hunt last year. You'd better start practicing...",
   "dating_Abigail": "%Abigail is blushing, but she looks happy.",
   "dating_Abigail_memory_oneday": "...You're cute.$l",
-  "dating_Abigail_memory_oneyear": "Uh... @? We've been dating for almost a year. Is this going anywhere?$s",
-  "dating_Sebastian_memory_oneday": "I heard you and Sebastian started dating... I didn't realize you guys had a thing...$6",
+  "dating_Abigail_memory_oneyear": "Uh... @? We've been together for almost a year. Is this going anywhere?$s", //edited
+  "dating_Sebastian_memory_oneday": "I heard you and Sebastian made things official... I didn't realize you guys had a thing...$6", //edited
   "dating_Sam": "Hey, I heard you and Sam got together... He's a really good guy!$h#$e#We've been friends for a long time. You'd better be good to him, or you'll see my bad side!",
   "married_Sebastian": "Congratulations on the marriage. I guess this means Sebastian won't be moving to the city like he always talked about.$6#$b#That'll be nice. I'd be kind of sad if I never saw him again. We've always been good friends.$6",
   "married_Sam": "Haha... I can't believe Sam is a married man, now. Who would've thought?$h#$e#Joking aside, I think he'll make a great father some day.",
-  "movieTheater": "Did you hear about the new theater in town? I'm excited to check it out!$h", // edited
+  "movieTheater": "Did you hear about the new theater in town? I'm excited to check it out!$h", //edited
   "Resort_Entering": "I hope a mermaid visits the beach.",
-  "Resort_Leaving": "I'm gonna ask Willy if we can take the scenic route back.",
+  "Resort_Leaving": "I'm going to ask Willy if we can take the scenic route back.", //edited
   "Resort_Leaving_2": "Maybe we'll see a sea monster on the way back.",
   "Resort_Shore": "The beach is okay, but it gets boring pretty quick. I'd rather check out that dark jungle, or the volcano!",
-  "Resort_Shore_2": "Hmm, you think I could sneak David onto the island?#$e#Nah, he's probably not much of a swimmer anyways.$h", // edited
-  "Resort_Umbrella": "My skin gets burnt really easily. So I'm just gonna stay under this umbrella for a while.#$e#I like it in the shade. Too much sun makes me dizzy.",
+  "Resort_Shore_2": "Hmm, you think I could sneak David onto the island?#$e#Nah, he's probably not much of a swimmer anyways.$h", //edited
+  "Resort_Umbrella": "My skin gets burnt really easily. So I'm just going to stay under this umbrella for a while.#$e#I like it in the shade. Too much sun makes me dizzy.", //edited
   "Resort_Umbrella_2": "Hey @, want to build a sand castle with me?#$e#Actually, a sand dungeon might be cooler!$h",
   "Resort_Umbrella_3": "Hey @, you think you could build a raft?#$e#I saw a few cool islands on the way here I want to visit.",
   "Resort_Wander": "An island this big has got to be hiding some buried treasure.#$e#Quick, get me a shovel!#$e#Relax, I'm just kidding.$h",
   "Resort_Bar": "Gus made me a dark purple refresher, to match my hair. It tastes great!$h",
-  "Resort": "Bummer... Willy says we have to stay on the beach...$s#$b#And I brought my sword and everything...$s",
+  "Resort": "Eugh... Willy says we have to stay on the beach...$s#$b#And I brought my sword and everything...$s", //edited
   "FlowerDance_Accept_Spouse": "B... But... I wanted to dance with...$s#$b#Just kidding! Of course I'm dancing with you. I love you.$h",
   "FlowerDance_Decline": "That's flattering... but I'm gonna have to say no. Sorry.",
   "divorced": "What are you doing here? Just leave me alone!$a",
@@ -60,17 +60,17 @@
   "Tue2": "...*sigh*...$s#$e#I know my parents mean well, but sometimes they just cannot understand my point of view. Weren't they ever young?",
   "Wed": "Hey. Sorry in advance if I say anything rude. I didn't get much sleep last night.#$e#What do you want?",
   "4": "Oh, hi.",
-  "Thu": "#$1 Abigail1#Oh no, I think my Father's going to cook dinner tonight...$s#$e#I don't feel like doing anything today...$u", // edited
+  "Thu": "#$1 Abigail1#Oh no, I think my Father's going to cook dinner tonight...$s#$e#I don't feel like doing anything today...$u", //edited
   "Fri": "Wow, I just realized it's Friday. $u#$e#Sometimes I totally lose track of time.",
   "Fri2": "We're all going to hang out in the saloon this evening. It's kind of like a Friday tradition, I guess.",
   "Sat": "The fresh mountain air is nice on a day like this.$h#$e#I wonder if the frogs will make an appearance soon.",
-  "Sun": "Oh man... I've been pushing off my work all weekend. Looks like I'll be pulling another all-nighter...$s", // edited
+  "Sun": "Oh man... I've been pushing off my work all weekend. Looks like I'll be pulling another all-nighter...$s", //edited
   "Sun2": "I wonder what would happen if I spent all night in the graveyard?#$q 17/18 Sun_old#@, what do you think happens to us after we die?#$r 17 0 Sun_17#I have no idea.#$r 18 40 Sun_18#We come back as spooky ghosts.#$r 17 0 Sun_17#We go to Heaven.#$r 18 0 Sun_17#Our energy bodies enter the astral plane.#$r 17 30 Sun_nothing#Nothing. We just cease to exist.",
   "Sun_old": "$p 17#I guess you think nothing would happen, right?$u|Maybe a wicked ghost would appear!",
   "Sun_17": "Hmm, interesting...",
   "Sun_18": "Well that's an interesting theory!$h",
   "Sun_nothing": "You know, that wouldn't be so bad.$8",
-  "Wed2": "Oh, hi @. Taking a break from your work?#$e#Me too. Oh! Nothing physical... just some lessons I'm taking.", // edited
+  "Wed2": "Oh, hi @. Taking a break from your work?#$e#Me too. Oh! Nothing physical... just some lessons I'm taking.", //edited
   "Tue4": "Hi, I'm glad to see you.$h#$e#I want to take my mind off things for a while... how is your day going?",
   "Sat6": "You came all this way to visit me? That's nice.$h#$e#So have you been exploring the mountain caves at all?#$e#Interesting. I'd like to go there myself one of these days.$l",
   "Mon8": "$query PLAYER_NPC_RELATIONSHIP current any married roommate#I remember when you first arrived in town, I was a little sad that those old woods would be turned into farmland. But now I'm really glad you moved here!$h|...Oh, @! Hi.$h#$e#Want to hang out for a while? Here! Let me read your palm. *giggle*$h",
@@ -100,9 +100,9 @@
   "summer_6": "I went to the beach last night, after dark... Sometimes you can see strange lights bobbing over the sea.#$e#Or maybe that was just a dream I had... It doesn't feel real anymore.",
   "summer_Thu": "If I knew how to use a sword I would be exploring those caves by the mountain lake right now. It's probably nice and cool in there.",
   "summer_Thu4": "Ew, I hope I don't get a tan this summer.$s",
-  "summer_Fri": "I kind of wish I had a cat. Unfortunately, my Father is allergic to pretty much everything.", // edited
+  "summer_Fri": "I kind of wish I had a cat. Unfortunately, my Father is allergic to pretty much everything.", //edited
   "summer_Sat": "I'm looking forward to fall... the cool mountain breeze, the swirling red petals, the smell of mushrooms... *sigh*",
-  "summer_Sun": "Do you ever get an urge to go exploring, @?#$q 25/26 summer_Sun_old#Okay... pretend you just won a free vacation. Where would you go?#$r 25 0 Sun_25#The beach#$r 26 30 Sun_26#In a dark cave#$r 26 30 Sun_26#The old, gnarled forest#$r 25 0 Sun_25#Joja Mega-Mall",
+  "summer_Sun": "Do you ever get an urge to go exploring, @?#$q 25/26 summer_Sun_old#Okay... pretend you just earned a free vacation. Where would you go?#$r 25 0 Sun_25#The beach#$r 26 30 Sun_26#In a dark cave#$r 26 30 Sun_26#The old, gnarled forest#$r 25 0 Sun_25#Joja's Headquarters", //edited
   "summer_Sun_old": "$p 25#I do... but you probably wouldn't like the places I'm thinking about...|Maybe we'll be neighbors someday. I think we both have similar, weird tastes.$h",
   "Sun_25": "Huh. I think that would get old fast.",
   "Sun_26": "Yea! That sounds wonderful.$h",
@@ -114,17 +114,17 @@
   "summer_Fri10": "Do you ever get lonely on your farm?",
   "fall_1": "Ah... Fall's here!$h#$e#I was getting so tired of summer.",
   "fall_Mon": "I need to stretch my legs and get some fresh air today.",
-  "fall_Tue": "$d joja#I try to help out in the shop on most days. Business has been pretty bad since the Joja's opened, though.|Ever since Joja's closed down we've been doing great at the shop!$h", // edited
-  "fall_Wed": "I can't wait to see some pumpkins this year.$h#$e#The spirit's eve festival happens at the end of the season. It's pretty low-key compared to what you'd see in Zuzu City, but for a small town like this it's a lot of fun.",
+  "fall_Tue": "$d joja#I try to help out in the shop on most days. Business has been pretty bad since the Joja's opened, though.|Ever since Joja's closed down we've been doing great at the shop!$h", //edited
+  "fall_Wed": "I can't wait to see some pumpkins this year.$h#$e#The spirit's eve festival happens at the end of the season. It's pretty casual compared to what you'd see in the city, but for a small town like this it's a lot of fun.", //edited
   "fall_Thu": "#$1 AbigailHAND#Last night I dreamt that my left hand had turned into a gigantic %noun. Does that mean anything?#$e#%Abigail doesn't seem to be interested in talking right now.",
   "fall_Sat": "$d cc#I can't believe you fixed up that old Community Center all by yourself. I'm really impressed.|Do you have any scarecrows on your farm?",
-  "fall_Sun": "Hmm... what should I do tonight?#$q 27/28 fall_Sun_old#I was thinking about dyeing my hair again... what do you think?#$r 27 10 Sun_27#Dye it black.#$r 27 10 Sun_27#Why not blonde?#$r 27 20 Sun_WildColor#How about bubblegum pink?#$r 28 0 Sun_28#I like your hair just the way it is!",
+  "fall_Sun": "Hmm... what should I do tonight?#$q 27/28 fall_Sun_old#I was thinking about dyeing my hair again... what do you think?#$r 27 10 Sun_27#Dye it black.#$r 27 10 Sun_27#Why not blonde?#$r 27 20 Sun_WildColor#How about bright pink?#$r 28 0 Sun_28#I like your hair just the way it is!", //edited
   "fall_Sun_old": "$p 27#I was going to dye my hair but then I decided against it.|Yes? What is it?",
   "Sun_27": "I guess that's a pretty safe choice, huh?#$e#I'll think about it.",
   "Sun_28": "Of course that's what you'd say.$u",
   "Sun_WildColor": "You're always good for a laugh.$h",
   "fall_Wed2": "Are you growing pumpkins on your farm this year?#$e#Save one for me!$h",
-  "fall_Tue4": "I may fight with my parents a lot, but I know they're just looking out for me. They're doing what they think is best.$s#$b#I dunno why I'm saying this to you. Don't tell anyone.$8",
+  "fall_Tue4": "I may fight with my parents a lot, but I know they're just looking out for me. They're doing what they think is best.$s#$b#I don't know why I'm saying this to you. Don't tell anyone.$8", //edited
   "fall_Sat6": "Hi.$h#$e#Your hair looks cool today... did you do something different?",
   "fall_Mon8": "You know, I could actually see myself becoming a farmer some day...#$e#But how would that ever happen? *chuckle*$l",
   "fall_Thu10": "I had an interesting dream last night, with you in it.#$e#It was a good dream.$h",
@@ -143,9 +143,9 @@
   "winter_24": "I'm going to eat so much cranberry sauce tomorrow.$h",
   "winter_Thu": "Another year is almost over.#$e#It goes by so fast, doesn't it?$s",
   "winter_Fri": "One thing I've learned living here... everyone stares at you if you look different.",
-  "winter_Sat": "It's the weekend!#$e#That means I can play twice as many games.$h#$e#Bye.", // edited
+  "winter_Sat": "It's the weekend!#$e#That means I can play twice as much.$h#$e#Bye.", //edited
   "winter_Sun": "Oh, hello.#$q 29/30 winter_Sun_old#I made these two drawings. What do you think?#$r 29 20 Sun_29#I like the jungle island and the tiger.#$r 30 5 Sun_30#I like the orc with the battleaxe.#$r 29 -50 Sun_Bad#I don't like either of them.",
-  "winter_Sun_old": "$p 29#Remember those drawings I showed you a while ago? I accidentally threw them away.$s|Remember that drawing I showed you with the orc? I entered it into a contest and won 50g!$h", // edited
+  "winter_Sun_old": "$p 29#Remember those drawings I showed you a while ago? I accidentally threw them away.$s|Remember that drawing I showed you with the orc? I entered it into a contest and won 50g!$h", //edited
   "Sun_29": "Oh yeah? I guess that makes sense.",
   "Sun_30": "I'm glad. It's embarrassing to share your art with others. But I think you and I are on the same page.",
   "Sun_Bad": "Rude! Why would you hurt my feelings like that? You're so insensitive!$s",

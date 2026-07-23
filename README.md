@@ -1,5 +1,5 @@
 # Wayback Dialogue
-This mod edits most vanilla dialogue to remove anachronistic references that would break immersion when using more fantastical, historical, etc. styled setups. Currently only the barebones version that makes minimal edits, but there may be more extensive rewrites in the future for people who want a more ~immersive~ experience.
+This mod edits most vanilla dialogue to remove anachronistic references that would break immersion when using more fantastical, historical, etc. styled setups. Currently only the barebones version that makes minimal edits, but there may be more extensive rewrites in the future for people who want a more *immersive*(tm) experience.
 
 #### Changes
 The current version only makes the following changes:

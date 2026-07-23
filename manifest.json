@@ -1,0 +1,11 @@
+{
+    "Name": "Wayback Dialogue",
+    "Author": "kaojushage",
+    "Version": "1.0.0",
+    "Description": "Edits in-game dialogue to fit with a more timeless and historical setting.",
+    "UniqueID": "kaojushage.WaybackDialogue",
+    "UpdateKeys": [], // when you release the mod, see https://stardewvalleywiki.com/Modding:Modder_Guide/APIs/Update_checks
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}

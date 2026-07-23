@@ -1,5 +1,11 @@
 {
-	
+    "Format": "2.9.0",
+"Changes": [
+	{ 
+	    "Action": "EditData",
+	    "Target": "Characters/Dialogue/Abigail",
+	    "Entries": {
+   
  "Introduction": "Ah, the new farmer we've all been expecting... and whose arrival has sparked many a conversation!#$b#I'm Elliott... I live in the little cabin by the beach. It's a pleasure to meet you.",
   "AcceptBirthdayGift_Positive": "I'm honored that you would remember my birthday! Thank you!$h",
   "AcceptBirthdayGift_Negative": "Another year gone by, another gray hair... I suppose this gift can commemorate my decline.$s",
@@ -96,5 +102,10 @@
   "winter_Fri": "I have to brush my hair daily, or else it'll clump up into messy knots.#$e#It's a lot of work.#$e#I'm surprised I haven't just shaved it off in a fit of passion.$h#$e#I suppose I am too vain.",
   "winter_Sat": "I've been doing little indoor exercises, since it's often too cold to go out.#$e#Sorry if it's a little humid in the cabin.$s",
   "winter_Sun": "I really should scrub my floorboards today. I think an algae is starting to form.$s#$e#Do you make time for cleaning?"
-
-			}
+			
+			        },
+	
+	},		
+]
+			
+} }
